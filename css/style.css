@@ -161,6 +161,8 @@ button {
 .header .nav h2 {
     color: #ffffff;
     text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .header .nav h2 span {
@@ -1540,6 +1542,7 @@ body.dark-mode .slider .wight h1 {
 .project-card {
     animation: fadeInUp 0.6s ease-out;
 }
+
 /* Scroll to Top Button */
 #scrollTopBtn {
     display: none;
@@ -1615,7 +1618,7 @@ body.dark-mode .slider .wight h1 {
 }
 
 /* RTL Support for Progress Bars - Fill from Right */
-[dir="rtl"] .my-skills .my-skills-secand div > span {
+[dir="rtl"] .my-skills .my-skills-secand div>span {
     float: right !important;
     direction: ltr;
 }
