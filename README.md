@@ -1,52 +1,55 @@
 # Hisham FadlAllah | Geospatial Quality Control - City Planner
 
-> Experienced Urban Planner and GIS Specialist specializing in geospatial quality control and city planning. Dedicated to maintaining high standards in urban studies, city planning, and sustainable development.
+> Urban Systems Strategist with 11+ years of experience in government-scale urban development, land governance reform, and institutional GIS transformation. History of leading large-scale programs across Saudi Arabia and Egypt with a focus on strategy-to-execution transformation.
 
 ## 📍 Contact Information
 - **Location:** Riyadh, Saudi Arabia | Cairo, Egypt
-- **Phone:** +966570071219 | +201023428044 | +201227048805
+- **Phone:** +966570071219 | +201023428044
 - **Email:** [HishamFadlallah25@gmail.com](mailto:HishamFadlallah25@gmail.com)
 
 ## 🌐 About Me
-With advanced education and experience in urban studies and planning, I possess strong analytical and visual theoretical skills. I have a solid foundation in city planning, sustainable development, and land use. I have planned and executed various urban planning initiatives, analyzed demographics, and participated in development ordinances. My experience includes using computer databases, GIS, and complicated design software.
+Urban Systems Strategist with 11+ years of experience leading complex government-scale urban development, land governance reform, and institutional GIS transformation programs across Saudi Arabia and Egypt. Specialized in bridging high-level urban strategy with operational execution through structured geospatial systems, regulatory integration, and cross-agency coordination. Proven leader in: Large-scale land expropriation systems, Government geospatial architecture, Urban redevelopment classification frameworks, Industrial land planning & infrastructure zoning, Spatial quality control & data governance, and Strategy-to-execution transformation.
 
 ### 💎 Values
 I possess strong analytical and visual theoretical skills with the ability to visualize the end result. Dedicated to maintaining high standards in urban studies, city planning, and sustainable development.
 
-### 🎯 Goals
-To swiftly surpass expectations as an Urban Planner, utilizing my advanced education and experience in urban studies and planning to significantly benefit your organization.
+### 🎯 Objective
+Seeking a leadership role in Urban Systems Transformation, Government Spatial Governance, or Institutional Planning Modernization.
 
 ### 🌟 Interests
-Theater & Cinemas, Volunteering Activities, Art & Photography, Public Speaking, Reading, Technology, Walking & Running & Biking.
+Theatre, Cinemas & Concerts, Volunteering Activities, Art & Photography, Public Speaking, Reading, Technology, Walking, Running & Biking.
 
-## 🛠 Skills
-- **Urban Planning:** Urban Design, Regional Planning, Landscape Architecture, Sustainable Development.
-- **GIS & Technical:** Geospatial Quality Control, Spatial Analysis, ArcGIS Enterprise, Portal, Online, Pro, AutoCAD Map 3D, QGIS.
-- **Software:** GIS, AutoCAD, Adobe Photoshop, Sketch Up, MS Office.
-- **Personal:** Communication, Public Speaking, Problem Solving, Teamwork.
-- **Languages:** Arabic (Native), English (Excellent), French (Fair).
+## 🛠 Core Competencies
+- Urban Systems Transformation
+- Government Land Governance Architecture
+- Expropriation & Ownership Digitization Frameworks
+- Spatial Data Governance & Enterprise GIS
+- Strategic Planning for Operational Deployment
 
 ## 💼 Professional Experience
 
 ### Dar Al Riyadh | Riyadh, KSA
-**Geospatial Quality Control - City Planner** (April 2024 – Recent)
-- Develop and maintain GIS databases for land use.
-- Generate maps, charts, and reports for project planning.
-- Conduct spatial analysis to identify constraints and risks.
-- Ensure data integrity and quality control (QC).
+**Geospatial Quality Control & City Planning Lead** (April 2024 – Recent)
+- Lead enterprise GIS governance and spatial data quality control for large-scale urban and infrastructure programs.
+- Develop ArcGIS Enterprise workflows, dashboards, and executive reporting systems.
+- Integrate engineering outputs (Autodesk/Bentley) into structured GIS environments.
+- Establish quality assurance frameworks ensuring regulatory compliance and spatial accuracy.
+- **Impact:** Improved data reliability, interdepartmental coordination, and executive-level decision support within multi-stakeholder projects.
 
 ### Al Qotr Company for Surveying | Riyadh, KSA
-**City Planner** (April 2022 – April 2024)
-- Land Surveying, GIS, and Mobile Mapping.
-- Geo Database design for expropriation projects.
-- QC on Geo database and ownership deeds.
-- Creating Atlases and descriptive cards using ArcGIS.
+**Senior City Planner – Land Systems & Expropriation** (April 2022 – April 2024)
+- Designed geo-databases for government expropriation programs.
+- Developed land-use atlases and ownership classification systems.
+- Structured reporting frameworks supporting legal and compensation processes.
+- Coordinated surveying, GIS, and regulatory integration across stakeholders.
+- **Impact:** Enabled operational clarity in high-complexity redevelopment initiatives involving multiple regulatory authorities.
 
 ### Informal Settlements Development Fund (ISDF) | Cairo, Egypt
 **Urban Planner** (Jan 2019 – April 2022)
-- Survey of random areas throughout Egypt.
-- Classification of informal settlements.
-- Prepare periodic reports for technical committees.
+- Conducted spatial analysis and classification of informal settlements nationwide.
+- Contributed to redevelopment policy implementation and reporting to national committees.
+- Supported urban transformation and land formalization initiatives.
+- **Impact:** Supported national urban transformation and formalization efforts.
 
 ### EZBET Project | Stuttgart/Ain Shams Univ.
 **Urban Planning Engineer - Technical Officer (Volunteer)** (Aug 2018 – Present)
